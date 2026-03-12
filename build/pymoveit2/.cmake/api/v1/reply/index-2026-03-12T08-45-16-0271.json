@@ -1,0 +1,54 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Unix Makefiles"
+		},
+		"paths" : 
+		{
+			"cmake" : "/home/rtx3090/.local/lib/python3.10/site-packages/cmake/data/bin/cmake",
+			"cpack" : "/home/rtx3090/.local/lib/python3.10/site-packages/cmake/data/bin/cpack",
+			"ctest" : "/home/rtx3090/.local/lib/python3.10/site-packages/cmake/data/bin/ctest",
+			"root" : "/home/rtx3090/.local/lib/python3.10/site-packages/cmake/data/share/cmake-3.26"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 26,
+			"patch" : 3,
+			"string" : "3.26.3",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-2532980eb6a639c35108.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 5
+			}
+		}
+	],
+	"reply" : 
+	{
+		"client-colcon-cmake" : 
+		{
+			"codemodel-v2" : 
+			{
+				"jsonFile" : "codemodel-v2-2532980eb6a639c35108.json",
+				"kind" : "codemodel",
+				"version" : 
+				{
+					"major" : 2,
+					"minor" : 5
+				}
+			}
+		}
+	}
+}

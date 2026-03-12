@@ -1,0 +1,36 @@
+-- The C compiler identification is GNU 12.3.0
+-- The CXX compiler identification is GNU 12.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/lib/ccache/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/lib/ccache/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/rtx3090/panda_ws/build/panda_bringup
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/launch/pick_and_place.launch.py
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/ament_index/resource_index/package_run_dependencies/panda_bringup
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/ament_index/resource_index/parent_prefix_path/panda_bringup
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/environment/ament_prefix_path.sh
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/environment/ament_prefix_path.dsv
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/environment/path.sh
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/environment/path.dsv
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.bash
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.sh
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.zsh
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/local_setup.dsv
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/package.dsv
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/ament_index/resource_index/packages/panda_bringup
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/cmake/panda_bringupConfig.cmake
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/cmake/panda_bringupConfig-version.cmake
+-- Symlinking: /home/rtx3090/panda_ws/install/panda_bringup/share/panda_bringup/package.xml

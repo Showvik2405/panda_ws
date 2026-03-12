@@ -1,0 +1,1 @@
+/home/rtx3090/panda_ws/build/panda_moveit/ament_cmake_environment_hooks/local_setup.bash

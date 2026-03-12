@@ -1,0 +1,55 @@
+[0.006s] Invoking command in '/home/rtx3090/panda_ws/build/panda_moveit': CMAKE_PREFIX_PATH=/home/rtx3090/panda_ws/install/panda_description:/home/rtx3090/panda_ws/install/panda_bringup:/home/rtx3090/panda_ws/install/pymoveit2:/home/rtx3090/panda_ws/install/panda_moveit:/home/rtx3090/panda_ws/install/panda_controller:/home/rtx3090/panda_ws/install/panda_vision:/opt/ros/humble /home/rtx3090/.local/bin/cmake /home/rtx3090/panda_ws/src/panda_moveit -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rtx3090/panda_ws/install/panda_moveit
+[0.064s] -- The C compiler identification is GNU 12.3.0
+[0.111s] -- The CXX compiler identification is GNU 12.3.0
+[0.119s] -- Detecting C compiler ABI info
+[0.152s] -- Detecting C compiler ABI info - done
+[0.161s] -- Check for working C compiler: /usr/lib/ccache/cc - skipped
+[0.161s] -- Detecting C compile features
+[0.161s] -- Detecting C compile features - done
+[0.164s] -- Detecting CXX compiler ABI info
+[0.208s] -- Detecting CXX compiler ABI info - done
+[0.216s] -- Check for working CXX compiler: /usr/lib/ccache/c++ - skipped
+[0.217s] -- Detecting CXX compile features
+[0.217s] -- Detecting CXX compile features - done
+[0.219s] -- Found ament_cmake: 1.3.13 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.513s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.563s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.589s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.657s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.657s] -- Added test 'lint_cmake' to check CMake code style
+[0.658s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.659s] -- Added test 'xmllint' to check XML markup files
+[0.660s] -- Configuring done (0.6s)
+[0.662s] -- Generating done (0.0s)
+[0.664s] -- Build files have been written to: /home/rtx3090/panda_ws/build/panda_moveit
+[0.670s] Invoked command in '/home/rtx3090/panda_ws/build/panda_moveit' returned '0': CMAKE_PREFIX_PATH=/home/rtx3090/panda_ws/install/panda_description:/home/rtx3090/panda_ws/install/panda_bringup:/home/rtx3090/panda_ws/install/pymoveit2:/home/rtx3090/panda_ws/install/panda_moveit:/home/rtx3090/panda_ws/install/panda_controller:/home/rtx3090/panda_ws/install/panda_vision:/opt/ros/humble /home/rtx3090/.local/bin/cmake /home/rtx3090/panda_ws/src/panda_moveit -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rtx3090/panda_ws/install/panda_moveit
+[0.672s] Invoking command in '/home/rtx3090/panda_ws/build/panda_moveit': CMAKE_PREFIX_PATH=/home/rtx3090/panda_ws/install/panda_description:/home/rtx3090/panda_ws/install/panda_bringup:/home/rtx3090/panda_ws/install/pymoveit2:/home/rtx3090/panda_ws/install/panda_moveit:/home/rtx3090/panda_ws/install/panda_controller:/home/rtx3090/panda_ws/install/panda_vision:/opt/ros/humble /home/rtx3090/.local/bin/cmake --build /home/rtx3090/panda_ws/build/panda_moveit -- -j20 -l20
+[0.711s] Invoked command in '/home/rtx3090/panda_ws/build/panda_moveit' returned '0': CMAKE_PREFIX_PATH=/home/rtx3090/panda_ws/install/panda_description:/home/rtx3090/panda_ws/install/panda_bringup:/home/rtx3090/panda_ws/install/pymoveit2:/home/rtx3090/panda_ws/install/panda_moveit:/home/rtx3090/panda_ws/install/panda_controller:/home/rtx3090/panda_ws/install/panda_vision:/opt/ros/humble /home/rtx3090/.local/bin/cmake --build /home/rtx3090/panda_ws/build/panda_moveit -- -j20 -l20
+[0.712s] Invoking command in '/home/rtx3090/panda_ws/build/panda_moveit': CMAKE_PREFIX_PATH=/home/rtx3090/panda_ws/install/panda_description:/home/rtx3090/panda_ws/install/panda_bringup:/home/rtx3090/panda_ws/install/pymoveit2:/home/rtx3090/panda_ws/install/panda_moveit:/home/rtx3090/panda_ws/install/panda_controller:/home/rtx3090/panda_ws/install/panda_vision:/opt/ros/humble /home/rtx3090/.local/bin/cmake --install /home/rtx3090/panda_ws/build/panda_moveit
+[0.734s] -- Install configuration: ""
+[0.734s] -- Execute custom install script
+[0.735s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/launch/moveit.launch.py
+[0.737s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/config/initial_positions.yaml
+[0.739s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/config/joint_limits.yaml
+[0.741s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/config/kinematics.yaml
+[0.743s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/config/moveit_controllers.yaml
+[0.744s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/config/panda.srdf
+[0.746s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/config/pilz_cartesian_limits.yaml
+[0.747s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/config/planning_python_api.yaml
+[0.749s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/rviz/moveit.rviz
+[0.751s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/ament_index/resource_index/package_run_dependencies/panda_moveit
+[0.752s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/ament_index/resource_index/parent_prefix_path/panda_moveit
+[0.754s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/environment/ament_prefix_path.sh
+[0.756s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/environment/ament_prefix_path.dsv
+[0.757s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/environment/path.sh
+[0.759s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/environment/path.dsv
+[0.761s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/local_setup.bash
+[0.763s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/local_setup.sh
+[0.764s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/local_setup.zsh
+[0.766s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/local_setup.dsv
+[0.768s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/package.dsv
+[0.770s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/ament_index/resource_index/packages/panda_moveit
+[0.772s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/cmake/panda_moveitConfig.cmake
+[0.774s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/cmake/panda_moveitConfig-version.cmake
+[0.775s] -- Symlinking: /home/rtx3090/panda_ws/install/panda_moveit/share/panda_moveit/package.xml
+[0.782s] Invoked command in '/home/rtx3090/panda_ws/build/panda_moveit' returned '0': CMAKE_PREFIX_PATH=/home/rtx3090/panda_ws/install/panda_description:/home/rtx3090/panda_ws/install/panda_bringup:/home/rtx3090/panda_ws/install/pymoveit2:/home/rtx3090/panda_ws/install/panda_moveit:/home/rtx3090/panda_ws/install/panda_controller:/home/rtx3090/panda_ws/install/panda_vision:/opt/ros/humble /home/rtx3090/.local/bin/cmake --install /home/rtx3090/panda_ws/build/panda_moveit

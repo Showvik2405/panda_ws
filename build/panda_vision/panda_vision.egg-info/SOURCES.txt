@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+panda_vision/__init__.py
+panda_vision/color_detector.py
+panda_vision.egg-info/PKG-INFO
+panda_vision.egg-info/SOURCES.txt
+panda_vision.egg-info/dependency_links.txt
+panda_vision.egg-info/entry_points.txt
+panda_vision.egg-info/requires.txt
+panda_vision.egg-info/top_level.txt
+panda_vision.egg-info/zip-safe
+resource/panda_vision

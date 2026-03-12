@@ -1,0 +1,1 @@
+/home/rtx3090/panda_ws/src/pymoveit2/examples/pick_and_place.py
